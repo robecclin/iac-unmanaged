@@ -1,0 +1,2 @@
+class IacIndexError(Exception):
+    pass
