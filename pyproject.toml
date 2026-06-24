@@ -21,7 +21,7 @@ iac-unmanaged = "iac_unmanaged.main:app"
 
 [build-system]
 build-backend = "uv_build"
-requires = ["uv_build>=0.11.23,<0.12"]
+requires = ["uv_build>=0.11.24,<0.12"]
 
 [dependency-groups]
 dev = [
